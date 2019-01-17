@@ -1,0 +1,251 @@
+Country,Casualties,code
+Argentina,1.0,ARG
+Australia,1.0,AUS
+Brazil,7.0,BRA
+Chile,1.0,CHL
+China,3.0,CHN
+Colombia,1.0,COL
+Croatia,5.0,HRV
+Germany,1.0,DEU
+Greece,1.0,GRC
+Hungary,1.0,HUN
+India,160.0,IND
+Indonesia,3.0,IDN
+Italy,2.0,ITA
+Kenya,1.0,KEN
+Malaysia,1.0,MYS
+Mexico,4.0,MEX
+Nepal,3.0,NPL
+New Zealand,1.0,NZL
+Nigeria,2.0,NGA
+Oman,2.0,OMN
+Pakistan,11.0,PAK
+Panama,1.0,PAN
+Peru,2.0,PER
+Philippines,5.0,PHL
+Portugal,4.0,PRT
+Romania,2.0,ROU
+Serbia,1.0,SRB
+South Africa,1.0,ZAF
+Spain,4.0,ESP
+Sri Lanka,5.0,LKA
+Thailand,2.0,THA
+Turkey,2.0,TUR
+Afghanistan,,AFG
+Åland Islands,,ALA
+Albania,,ALB
+Algeria,,DZA
+American Samoa,,ASM
+Andorra,,AND
+Angola,,AGO
+Anguilla,,AIA
+Antarctica,,ATA
+Antigua and Barbuda,,ATG
+Armenia,,ARM
+Aruba,,ABW
+Austria,,AUT
+Azerbaijan,,AZE
+Bahamas,,BHS
+Bahrain,,BHR
+Bangladesh,,BGD
+Barbados,,BRB
+Belarus,,BLR
+Belgium,,BEL
+Belize,,BLZ
+Benin,,BEN
+Bermuda,,BMU
+Bhutan,,BTN
+Bolivia (Plurinational State of),,BOL
+"Bonaire, Sint Eustatius and Saba",,BES
+Bosnia and Herzegovina,,BIH
+Botswana,,BWA
+Bouvet Island,,BVT
+British Indian Ocean Territory,,IOT
+Brunei Darussalam,,BRN
+Bulgaria,,BGR
+Burkina Faso,,BFA
+Burundi,,BDI
+Cabo Verde,,CPV
+Cambodia,,KHM
+Cameroon,,CMR
+Canada,,CAN
+Cayman Islands,,CYM
+Central African Republic,,CAF
+Chad,,TCD
+Christmas Island,,CXR
+Cocos (Keeling) Islands,,CCK
+Comoros,,COM
+Congo,,COG
+Congo (Democratic Republic of the),,COD
+Cook Islands,,COK
+Costa Rica,,CRI
+Côte d'Ivoire,,CIV
+Cuba,,CUB
+Curaçao,,CUW
+Cyprus,,CYP
+Czechia,,CZE
+Denmark,,DNK
+Djibouti,,DJI
+Dominica,,DMA
+Dominican Republic,,DOM
+Ecuador,,ECU
+Egypt,,EGY
+El Salvador,,SLV
+Equatorial Guinea,,GNQ
+Eritrea,,ERI
+Estonia,,EST
+Eswatini,,SWZ
+Ethiopia,,ETH
+Falkland Islands (Malvinas),,FLK
+Faroe Islands,,FRO
+Fiji,,FJI
+Finland,,FIN
+France,,FRA
+French Guiana,,GUF
+French Polynesia,,PYF
+French Southern Territories,,ATF
+Gabon,,GAB
+Gambia,,GMB
+Georgia,,GEO
+Ghana,,GHA
+Gibraltar,,GIB
+Greenland,,GRL
+Grenada,,GRD
+Guadeloupe,,GLP
+Guam,,GUM
+Guatemala,,GTM
+Guernsey,,GGY
+Guinea,,GIN
+Guinea-Bissau,,GNB
+Guyana,,GUY
+Haiti,,HTI
+Heard Island and McDonald Islands,,HMD
+Holy See,,VAT
+Honduras,,HND
+Hong Kong, 1.0,HKG
+Iceland,,ISL
+Iran (Islamic Republic of),,IRN
+Iraq,,IRQ
+Ireland,,IRL
+Isle of Man,,IMN
+Israel,,ISR
+Jamaica,,JAM
+Japan,,JPN
+Jersey,,JEY
+Jordan,,JOR
+Kazakhstan,,KAZ
+Kiribati,,KIR
+Korea (Democratic People's Republic of),,PRK
+Korea (Republic of),,KOR
+Kuwait,,KWT
+Kyrgyzstan,,KGZ
+Lao People's Democratic Republic,,LAO
+Latvia,,LVA
+Lebanon,,LBN
+Lesotho,,LSO
+Liberia,,LBR
+Libya,,LBY
+Liechtenstein,,LIE
+Lithuania,,LTU
+Luxembourg,,LUX
+Macao,,MAC
+Macedonia (the former Yugoslav Republic of),,MKD
+Madagascar,,MDG
+Malawi,,MWI
+Maldives,,MDV
+Mali,,MLI
+Malta,,MLT
+Marshall Islands,,MHL
+Martinique,,MTQ
+Mauritania,,MRT
+Mauritius,,MUS
+Mayotte,,MYT
+Micronesia (Federated States of),,FSM
+Moldova (Republic of),,MDA
+Monaco,,MCO
+Mongolia,,MNG
+Montenegro,,MNE
+Montserrat,,MSR
+Morocco,,MAR
+Mozambique,,MOZ
+Myanmar,,MMR
+Namibia,,NAM
+Nauru,,NRU
+Netherlands,,NLD
+New Caledonia,,NCL
+Nicaragua,,NIC
+Niger,,NER
+Niue,,NIU
+Norfolk Island,,NFK
+Northern Mariana Islands,,MNP
+Norway,,NOR
+Palau,,PLW
+"Palestine, State of",,PSE
+Papua New Guinea,,PNG
+Paraguay,,PRY
+Pitcairn,,PCN
+Poland,,POL
+Puerto Rico,,PRI
+Qatar,,QAT
+Réunion,,REU
+Russian Federation,,RUS
+Rwanda,,RWA
+Saint Barthélemy,,BLM
+"Saint Helena, Ascension and Tristan da Cunha",,SHN
+Saint Kitts and Nevis,,KNA
+Saint Lucia,,LCA
+Saint Martin (French part),,MAF
+Saint Pierre and Miquelon,,SPM
+Saint Vincent and the Grenadines,,VCT
+Samoa,,WSM
+San Marino,,SMR
+Sao Tome and Principe,,STP
+Saudi Arabia,,SAU
+Senegal,,SEN
+Seychelles,,SYC
+Sierra Leone,,SLE
+Singapore,,SGP
+Sint Maarten (Dutch part),,SXM
+Slovakia,,SVK
+Slovenia,,SVN
+Solomon Islands,,SLB
+Somalia,,SOM
+Somaliland,,ABV
+South Georgia and the South Sandwich Islands,,SGS
+South Sudan,,SDS
+Sudan,,SDN
+Suriname,,SUR
+Svalbard and Jan Mayen,,SJM
+Sweden,,SWE
+Switzerland,,CHE
+Syrian Arab Republic,,SYR
+"Taiwan, Province of China",,TWN
+Tajikistan,,TJK
+"Tanzania, United Republic of",,TZA
+Timor-Leste,,TLS
+Togo,,TGO
+Tokelau,,TKL
+Tonga,,TON
+Trinidad and Tobago,,TTO
+Tunisia,,TUN
+Turkmenistan,,TKM
+Turks and Caicos Islands,,TCA
+Tuvalu,,TUV
+Uganda,,UGA
+Ukraine,,UKR
+United Arab Emirates,,ARE
+United Kingdom of Great Britain and Northern Ireland,4.0,GBR
+United States of America,18.0,USA
+United States Minor Outlying Islands,,UMI
+Uruguay,,URY
+Uzbekistan,,UZB
+Vanuatu,,VUT
+Venezuela (Bolivarian Republic of),,VEN
+Viet Nam,,VNM
+Virgin Islands (British),,VGB
+Virgin Islands (U.S.),,VIR
+Wallis and Futuna,,WLF
+Western Sahara,,ESH
+Yemen,,YEM
+Zambia,,ZMB
+Zimbabwe,,ZWE
